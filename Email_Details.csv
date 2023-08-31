@@ -1,0 +1,20 @@
+Recipient(s),Subject(s),Body,Attachment Path(s),Attachment Status
+test-recipient@gmail.com,Test-subject,"Hi,
+    I hope all is well.
+
+I was just writing to test.
+
+Many thanks,
+X",,No
+test-recipient-2@outlook.co.uk,Test-subject-2,"Hi,
+    I hope all is well.
+
+I was just writing to test.
+
+Many thanks,
+X",,
+test-recipient-3@hotmail.com,Test-subject-3,"Hello,
+          This is a test.
+
+Thanks,
+X",,
